@@ -63,6 +63,11 @@ h1 {
 }
 
 .container-exercícioB {
+   display: flex;
+   flex-direction: column-reverse;
+}
+
+.container-desafio {
     display: flex;
     justify-content: left;
     flex-direction: row-reverse;
